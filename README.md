@@ -45,9 +45,3 @@
 </pre>
 <h2>OEChem Interaction</h2>
 <img src="https://github.com/gkxiao/3max/blob/main/3max.png"  alt="PDB 3MAX">
-<iframe style="border:none;" src="https://github.com/gkxiao/3max/blob/main/3max-llx-zn.html" name="ircframe" marginwidth="0" marginheight="0" scrolling="yes" seamless="seamless" width="100%" height="500">
-<br />
-Your browser does not support iframes. 
-<a target="_blank" href="https://github.com/gkxiao/3max/blob/main/3max-llx-zn.html">View the code here</a>
-<br/>
-</iframe>
