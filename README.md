@@ -10,4 +10,4 @@
   <p>PSI4 SAPT analysis output file</p>
 </ul>
 <h2>OEChem Interaction</h2>
-<img scr="https://github.com/gkxiao/3max/blob/main/3max.png"  alt="PDB 3MAX">
+<img src="https://github.com/gkxiao/3max/blob/main/3max.png"  alt="PDB 3MAX">
