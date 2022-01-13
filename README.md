@@ -1,4 +1,4 @@
-<h2>input and output files</h2>
+<h2>SAPT calculation</h2>
 <ul>
   <li>zn.com</li>
   <p>Gaussian optimization input file</p>
