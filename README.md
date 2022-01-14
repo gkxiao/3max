@@ -4,6 +4,8 @@
   <p>Gaussian optimization input file</p>
   <li>zn.log</li>
   <p>Gaussian optimization output file</p>
+  <li>zn_minimized.pdb</li>
+  <p>The coordination after the Gaussian optimization at APFD/6-311+g(2d,p) level.</p>
   <li>zn_sapt.in</li>
   <p>PSI4 SAPT analysis input file</p>
   <li>zn_sapt.log</li>
